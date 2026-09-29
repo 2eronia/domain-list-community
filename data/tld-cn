@@ -1,17 +1,32 @@
-# Reference: https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains
+# References:
+# https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains
+# https://www.iana.org/domains/root/db
 
-cn
-citic
+alibaba
+alipay
+anquan
 baidu
-unicom
+citic
+cn
+icbc
+shouji
+sina
 sohu
+taobao
+tmall
+unicom
+weibo
+xihuan
+yun
 
-# Reference: https://icannwiki.org/.%E6%94%BF%E5%8A%A1
-xn--zfr164b # .政务
+xn--9krt00a # 微博
 
 # Reference: https://domain.miit.gov.cn
+# .香港 is ignored due to not in China mainland
 xn--fiqs8s # .中国
 xn--fiqz9s # .中國
+xn--zfr164b # .政务
+xn--55qw42g # .公益
 xn--55qx5d # .公司
 xn--io0a7i # .网络
 xn--ses554g # .网址

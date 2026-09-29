@@ -29,6 +29,7 @@ kuaishou.httpdns.pro @ads
 
 # Meituan
 httpdns.meituan.com @ads
+httpdnsmultiapivip.meituan.com @ads
 httpdnsvip.meituan.com @ads
 
 # NetEase
@@ -65,4 +66,5 @@ httpdns.kwd.inkuai.com @ads
 httpdns.pro @ads
 httpdns.volcengineapi.com @ads
 httpdns.yunxindns.com @ads
+httpdns.zhihu.com @ads
 httpdns.zybang.com @ads

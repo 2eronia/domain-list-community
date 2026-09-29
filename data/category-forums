@@ -1,14 +1,19 @@
 # Forums & Social network
+include:2ch
 include:4chan
 include:5ch
 include:6park
 include:ck101
 include:dcard
 include:dslreports
+include:dzen
+include:habr
 include:hkgolden
 include:lihkg
 include:linuxdo
+include:livejournal
 include:mobile01
+include:nodeseek
 include:pixnet
 include:ptt
 include:quora
@@ -16,7 +21,6 @@ include:reddit
 include:rutracker
 include:soyjakparty
 include:xda
-include:yamibo
 
 full:bbs.boingboing.net
 
